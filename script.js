@@ -42,7 +42,7 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Open to work", "a Freelancer", "Open to learn anything", "a Fresher"],
+        strings: ["Open to work", "Associate Analyst", "Open to learn anything"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
